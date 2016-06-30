@@ -17,4 +17,14 @@
             <version>1.1.2</version>
         </dependency>
     </dependencies>
+    
+    <repositories>
+        <repository>
+            <id>ossrh</id>
+            <name>Sonatype Nexus</name>
+            <url>https://oss.sonatype.org/content/repositories/releases</url>
+        </repository>
+    </repositories>
+
+
 </project>
